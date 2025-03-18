@@ -4,23 +4,23 @@ Submitted by: **Faisal Anwari**
 
 **Trivia** is an app that gives a multi choice questions and you have to answer them 
 
-Time spent: **1.5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can view the current question and 4 different answers
-- [ ] User can view the next question after tapping an answer
+- [x] User can view the current question and 4 different answers
+- [x] User can view the next question after tapping an answer
 - [x] User can answer at least 3 different questions
 
 
 The following **optional** features are implemented:
 
-- [ ] User can use the vertical orientation of the app on any device
-- [ ] User can track the question they are on and how many questions are left
-- [ ] User can see how many questions they got correct after answering all questions
-- [ ] User should be able to restart the game after they've finished answering all questions
+- [x] User can use the vertical orientation of the app on any device
+- [x] User can track the question they are on and how many questions are left
+- [x] User can see how many questions they got correct after answering all questions
+- [x] User should be able to restart the game after they've finished answering all questions
 
 The following **additional** features are implemented:
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://www.loom.com/share/5d270b0e1bd44c21a9f76bd0adee4111?sid=13cde6d9-62fa-41a7-9f1c-4fb9d7cde56b
+https://www.loom.com/share/79ee908664c04720b7e9718a5149d4d7
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
